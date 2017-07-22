@@ -1,0 +1,2 @@
+# abbakomputer
+komputer
